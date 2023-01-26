@@ -9,6 +9,6 @@ ptEIT reconstructs the objects’ conductivity, shape and position independently
 The final trained models are stored in the “saved_Models” file. To test the final trained model on the testing dataset, firstly run the “PLOTRESULT.py” file, which will show the reconstructed image on one random selected test sample and evaluate the performance metric on the whole testing dataset. The random selected test result would also be automatically stored in the “matplot” folder, which used for plotting the results in MATLAB. To do that, run the “simulation_plot.m” file in the “matplot” folder to show the MATLAB plots.
 
 ## Model Architecture:
-
+![image](https://github.com/haijing-zhang/ptEIT/blob/main/Data/pctomoformerV2.pdf)
 
 ## Final Results:

@@ -12,3 +12,4 @@ The final trained models are stored in the “saved_Models” file. To test the 
 ![image](https://github.com/haijing-zhang/ptEIT/blob/main/Data/pctomoformerV2.pdf)
 
 ## Final Results:
+![image](https://github.com/haijing-zhang/ptEIT/blob/main/Data/results.png)
